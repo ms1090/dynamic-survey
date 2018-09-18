@@ -82,7 +82,7 @@ src/
 ```
 ## Application data structure
 
-Redux store's state shape :
+Redux store shape :
 ```
 {
   questions: {
