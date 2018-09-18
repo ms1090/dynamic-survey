@@ -1,0 +1,19 @@
+.question-form:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+.question-form .question-container {
+  color: #285175;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.question-form .question-container span:last-child {
+  margin-left: 5px;
+}
+.input-field-container {
+  min-height: 240px;
+}
+.float-right {
+  float: right;
+}

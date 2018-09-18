@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QuestionResponse Component should render correctly 1`] = `
+<article
+  className="question-response"
+>
+  <div
+    className="question-container"
+  >
+    <span>
+      Q 1 : 
+    </span>
+    <span>
+      test question?
+    </span>
+  </div>
+  <div
+    className="answer-container"
+  >
+    <strong>
+      A : 
+    </strong>
+    <span>
+      No answer
+    </span>
+  </div>
+</article>
+`;

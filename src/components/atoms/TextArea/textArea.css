@@ -1,0 +1,15 @@
+.text-area {
+  display: block;
+}
+.text-area textarea {
+  border: solid 1px #8c8c8a;
+  border-radius: 3px;
+  box-sizing: border-box;
+  color: #5d5d5d;
+  display: block;
+  height: 209px;
+  margin: 10px 0;
+  padding: 10px 16px;
+  resize: none;
+  width: 100%;
+}

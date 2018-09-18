@@ -1,0 +1,18 @@
+.question-response {
+  margin-bottom: 20px;
+}
+.question-response .question-container {
+  font-weight: bold;
+  margin: 10px 0;
+}
+.question-response .answer-container {
+  color: #8c8c8a;
+}
+.question-response .question-container,
+.question-response .answer-container strong {
+  color: #285175;
+}
+.question-response .question-container span:last-child,
+.question-response .answer-container span {
+  margin-left: 5px;
+}

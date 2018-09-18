@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SurveySummaryVanilla Component should render correctly 1`] = `
+<section>
+  <QuestionResponse
+    index={1}
+    key="ques1"
+    question={
+      Object {
+        "id": "ques1",
+        "options": Array [
+          "It's fine- whatever works, right?",
+          "I don't mind them but never used much.",
+          "I preferred to not use the dummy as much as possible.",
+          "I would never use a dummy.",
+        ],
+        "text": "What do you think about the use of dummies?",
+      }
+    }
+  />
+  <QuestionResponse
+    index={2}
+    key="ques2"
+    question={
+      Object {
+        "id": "ques2",
+        "text": "Can you tell us why you have this view?",
+      }
+    }
+  />
+  <Divider />
+  <Button
+    className=""
+    onClick={[Function]}
+    primary={false}
+    secondary={false}
+  >
+    RESTART SURVEY
+  </Button>
+</section>
+`;

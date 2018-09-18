@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input Component should render correctly 1`] = `
+<label
+  className="text-input test-className"
+  htmlFor="testId"
+>
+  <span>
+    test label
+  </span>
+  <input
+    id="testId"
+  />
+</label>
+`;

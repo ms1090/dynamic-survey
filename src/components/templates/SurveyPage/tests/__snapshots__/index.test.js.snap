@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SurveyPageVanilla Component should render correctly 1`] = `
+<div
+  className="layout-container"
+>
+  <ProgressBar
+    className=""
+    max={4}
+    value={1}
+  />
+  <Connect(QuestionForm) />
+</div>
+`;
+
+exports[`SurveyPageVanilla Component should render correctly 2`] = `
+<div
+  className="layout-container"
+>
+  <ProgressBar
+    className=""
+    max={4}
+    value={4}
+  />
+  <Connect(SurveySummary) />
+</div>
+`;

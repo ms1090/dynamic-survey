@@ -1,0 +1,193 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QuestionForm Component should render correctly 1`] = `
+<section
+  className="question-form"
+>
+  <div
+    className="question-container"
+  >
+    <span>
+      Question 2 :
+    </span>
+    <span>
+      Can you tell us why you have this view?
+    </span>
+  </div>
+  <div
+    className="input-field-container"
+  >
+    <TextArea
+      className=""
+      id="userAns"
+      label="Your answer"
+      onChange={[Function]}
+      value="test answer"
+    />
+  </div>
+  <Divider />
+  <Button
+    className="float-right"
+    disabled=""
+    onClick={[Function]}
+    primary={false}
+    secondary={false}
+  >
+    NEXT
+  </Button>
+  <Button
+    className=""
+    onClick={[Function]}
+    primary={false}
+    secondary={false}
+  >
+    BACK
+  </Button>
+</section>
+`;
+
+exports[`QuestionForm Component should render correctly 2`] = `
+<section
+  className="question-form"
+>
+  <div
+    className="question-container"
+  >
+    <span>
+      Question 5 :
+    </span>
+    <span>
+      What do you think about the use of dummies?
+    </span>
+  </div>
+  <div
+    className="input-field-container"
+  >
+    <RadioBox
+      checked=""
+      className=""
+      id="userAns0"
+      key="It's fine- whatever works, right?"
+      label="It's fine- whatever works, right?"
+      name="userAns"
+      onChange={[Function]}
+      value="It's fine- whatever works, right?"
+    />
+    <RadioBox
+      checked=""
+      className=""
+      id="userAns1"
+      key="I don't mind them but never used much."
+      label="I don't mind them but never used much."
+      name="userAns"
+      onChange={[Function]}
+      value="I don't mind them but never used much."
+    />
+    <RadioBox
+      checked=""
+      className=""
+      id="userAns2"
+      key="I preferred to not use the dummy as much as possible."
+      label="I preferred to not use the dummy as much as possible."
+      name="userAns"
+      onChange={[Function]}
+      value="I preferred to not use the dummy as much as possible."
+    />
+    <RadioBox
+      checked=""
+      className=""
+      id="userAns3"
+      key="I would never use a dummy."
+      label="I would never use a dummy."
+      name="userAns"
+      onChange={[Function]}
+      value="I would never use a dummy."
+    />
+  </div>
+  <Divider />
+  <Button
+    className="float-right"
+    disabled=""
+    onClick={[Function]}
+    primary={false}
+    secondary={false}
+  >
+    SUBMIT
+  </Button>
+  <Button
+    className=""
+    onClick={[Function]}
+    primary={false}
+    secondary={false}
+  >
+    BACK
+  </Button>
+</section>
+`;
+
+exports[`QuestionForm Component should render correctly 3`] = `
+<section
+  className="question-form"
+>
+  <div
+    className="question-container"
+  >
+    <span>
+      Question 1 :
+    </span>
+    <span>
+      At what age do you think it is appropriate for a child to have a dummy?
+    </span>
+  </div>
+  <div
+    className="input-field-container"
+  >
+    <SelectBox
+      className=""
+      id="userAns"
+      label="Select an option"
+      name=""
+      onChange={[Function]}
+      options={
+        Array [
+          Object {
+            "label": "Up to 1 yr",
+            "value": "Up to 1 yr",
+          },
+          Object {
+            "label": "Up to 2 yrs",
+            "value": "Up to 2 yrs",
+          },
+          Object {
+            "label": "Up to 3 yrs",
+            "value": "Up to 3 yrs",
+          },
+          Object {
+            "label": "Up to 4yrs",
+            "value": "Up to 4yrs",
+          },
+          Object {
+            "label": "Up to 5yrs",
+            "value": "Up to 5yrs",
+          },
+          Object {
+            "label": "Beyond 5yrs",
+            "value": "Beyond 5yrs",
+          },
+        ]
+      }
+      value="test answer"
+    />
+  </div>
+  <Divider />
+  <Button
+    className="float-right"
+    disabled=""
+    onClick={[Function]}
+    primary={false}
+    secondary={false}
+  >
+    NEXT
+  </Button>
+</section>
+`;

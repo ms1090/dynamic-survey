@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SelectBox Component should render correctly 1`] = `
+<label
+  className="select-box test-className"
+  htmlFor="testId"
+>
+  <span>
+    test label
+  </span>
+  <select
+    id="testId"
+  >
+    <option
+      key="test value 1"
+      value="test value 1"
+    >
+      test label 1
+    </option>
+    <option
+      key="test value 2"
+      value="test value 2"
+    >
+      test label 2
+    </option>
+  </select>
+</label>
+`;

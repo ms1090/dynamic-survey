@@ -1,0 +1,23 @@
+.button {
+  background: #97c759;
+  border: none;
+  border-radius: 3px;
+  box-sizing: border-box;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 10px;
+  padding: 10px 20px;
+  width: 100%;
+}
+.button:disabled {
+  background: grey;
+  cursor: default;
+}
+
+@media (min-width: 769px) {
+  .button {
+    margin-bottom: auto;
+    width: auto;
+  }
+}

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RadioBox Component should render correctly 1`] = `
+<label
+  className="radio-box test-className"
+  htmlFor="testId"
+>
+  <input
+    id="testId"
+    name="test-name"
+    type="radio"
+    value="test label"
+  />
+  <span>
+    test label
+  </span>
+</label>
+`;

@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "id": "ques1",
+      "text": "What do you think about the use of dummies?",
+      "options": [
+        "It's fine- whatever works, right?",
+        "I don't mind them but never used much.",
+        "I preferred to not use the dummy as much as possible.",
+        "I would never use a dummy."
+      ]
+    },
+    {
+      "id": "ques2",
+      "text": "Can you tell us why you have this view?"
+    },
+    {
+      "id": "ques3",
+      "text": "At what age do you think it is appropriate for a child to have a dummy?",
+      "options": [
+        "Up to 1 yr",
+        "Up to 2 yrs",
+        "Up to 3 yrs",
+        "Up to 4yrs",
+        "Up to 5yrs",
+        "Beyond 5yrs"
+      ]
+    },
+    {
+      "id": "ques4",
+      "text": "How do you feel about children of 4yrs+ using dummies?"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+.select-box select {
+  border-radius: 3px;
+  border: solid 1px #8c8c8a;
+  color: #5d5d5d;
+  cursor: pointer;
+  display: block;
+  height: 40px;
+  margin: 10px 0;
+  padding: 10px 16px;
+  width: 100%;
+}

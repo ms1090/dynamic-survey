@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Component should render correctly 1`] = `
+<button
+  className="button test-class"
+  onClick={null}
+  type="button"
+/>
+`;
+
+exports[`Button Component should render correctly 2`] = `
+<button
+  className="button test-class button-primary"
+  onClick={null}
+  type="button"
+/>
+`;
+
+exports[`Button Component should render correctly 3`] = `
+<button
+  className="button test-class button-secondary"
+  onClick={null}
+  type="button"
+/>
+`;

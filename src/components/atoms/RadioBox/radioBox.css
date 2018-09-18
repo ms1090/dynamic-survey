@@ -1,0 +1,10 @@
+.radio-box {
+  background: #f8f9fb;
+  border: solid 1px #8c8c8a;
+  border-radius: 3px;
+  color: #5d5d5d;
+  cursor: pointer;
+  display: block;
+  margin-bottom: 8px;
+  padding: 10px 16px;
+}
